@@ -1,0 +1,32 @@
+{
+  "name": "demo-svelte",
+  "version": "0.0.1",
+  "description": "svelte demo",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "poi",
+    "build": "poi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxp/demo-svelte.git"
+  },
+  "keywords": [
+    "svelte",
+    "demo"
+  ],
+  "author": "Alan Lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luxp/demo-svelte/issues"
+  },
+  "homepage": "https://github.com/luxp/demo-svelte#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "poi-preset-svelte": "^9.0.1",
+    "sass-loader": "^6.0.6"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
